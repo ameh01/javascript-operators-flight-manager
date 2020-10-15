@@ -8,5 +8,3 @@ function Flights() {
     return {calculateNumberOfFlights};
 
 }
-
-module.exports = Flights();
